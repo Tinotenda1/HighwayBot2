@@ -1,0 +1,722 @@
+[
+  {
+    "filename": "1.png",
+    "output": "1.json",
+    "bytes": 63476
+  },
+  {
+    "filename": "10.png",
+    "output": "10.json",
+    "bytes": 20810
+  },
+  {
+    "filename": "100.png",
+    "output": "100.json",
+    "bytes": 94236
+  },
+  {
+    "filename": "101.png",
+    "output": "101.json",
+    "bytes": 15656
+  },
+  {
+    "filename": "106.png",
+    "output": "106.json",
+    "bytes": 37181
+  },
+  {
+    "filename": "107.png",
+    "output": "107.json",
+    "bytes": 69283
+  },
+  {
+    "filename": "108.png",
+    "output": "108.json",
+    "bytes": 35577
+  },
+  {
+    "filename": "11.png",
+    "output": "11.json",
+    "bytes": 18923
+  },
+  {
+    "filename": "110.png",
+    "output": "110.json",
+    "bytes": 55364
+  },
+  {
+    "filename": "111.png",
+    "output": "111.json",
+    "bytes": 52974
+  },
+  {
+    "filename": "113.png",
+    "output": "113.json",
+    "bytes": 46568
+  },
+  {
+    "filename": "114.png",
+    "output": "114.json",
+    "bytes": 81737
+  },
+  {
+    "filename": "115.png",
+    "output": "115.json",
+    "bytes": 38073
+  },
+  {
+    "filename": "122.png",
+    "output": "122.json",
+    "bytes": 36449
+  },
+  {
+    "filename": "147.png",
+    "output": "147.json",
+    "bytes": 22934
+  },
+  {
+    "filename": "148.png",
+    "output": "148.json",
+    "bytes": 128162
+  },
+  {
+    "filename": "149.png",
+    "output": "149.json",
+    "bytes": 26063
+  },
+  {
+    "filename": "150.png",
+    "output": "150.json",
+    "bytes": 125763
+  },
+  {
+    "filename": "151.png",
+    "output": "151.json",
+    "bytes": 18803
+  },
+  {
+    "filename": "155.png",
+    "output": "155.json",
+    "bytes": 76483
+  },
+  {
+    "filename": "160.png",
+    "output": "160.json",
+    "bytes": 77433
+  },
+  {
+    "filename": "161.png",
+    "output": "161.json",
+    "bytes": 54082
+  },
+  {
+    "filename": "163.png",
+    "output": "163.json",
+    "bytes": 46223
+  },
+  {
+    "filename": "165.png",
+    "output": "165.json",
+    "bytes": 119277
+  },
+  {
+    "filename": "166.png",
+    "output": "166.json",
+    "bytes": 29383
+  },
+  {
+    "filename": "167.png",
+    "output": "167.json",
+    "bytes": 26446
+  },
+  {
+    "filename": "169.png",
+    "output": "169.json",
+    "bytes": 16079
+  },
+  {
+    "filename": "170.png",
+    "output": "170.json",
+    "bytes": 22084
+  },
+  {
+    "filename": "180.png",
+    "output": "180.json",
+    "bytes": 18114
+  },
+  {
+    "filename": "181.png",
+    "output": "181.json",
+    "bytes": 29093
+  },
+  {
+    "filename": "185.png",
+    "output": "185.json",
+    "bytes": 34584
+  },
+  {
+    "filename": "186.png",
+    "output": "186.json",
+    "bytes": 36620
+  },
+  {
+    "filename": "187.png",
+    "output": "187.json",
+    "bytes": 24790
+  },
+  {
+    "filename": "188.png",
+    "output": "188.json",
+    "bytes": 35738
+  },
+  {
+    "filename": "189.png",
+    "output": "189.json",
+    "bytes": 17383
+  },
+  {
+    "filename": "190.png",
+    "output": "190.json",
+    "bytes": 3428
+  },
+  {
+    "filename": "191.png",
+    "output": "191.json",
+    "bytes": 42178
+  },
+  {
+    "filename": "193.png",
+    "output": "193.json",
+    "bytes": 61076
+  },
+  {
+    "filename": "195.png",
+    "output": "195.json",
+    "bytes": 24478
+  },
+  {
+    "filename": "196.png",
+    "output": "196.json",
+    "bytes": 39476
+  },
+  {
+    "filename": "197.png",
+    "output": "197.json",
+    "bytes": 37582
+  },
+  {
+    "filename": "198.png",
+    "output": "198.json",
+    "bytes": 30649
+  },
+  {
+    "filename": "2.png",
+    "output": "2.json",
+    "bytes": 68876
+  },
+  {
+    "filename": "205.png",
+    "output": "205.json",
+    "bytes": 122999
+  },
+  {
+    "filename": "206.png",
+    "output": "206.json",
+    "bytes": 16916
+  },
+  {
+    "filename": "207.png",
+    "output": "207.json",
+    "bytes": 21085
+  },
+  {
+    "filename": "209.png",
+    "output": "209.json",
+    "bytes": 27566
+  },
+  {
+    "filename": "210.png",
+    "output": "210.json",
+    "bytes": 50441
+  },
+  {
+    "filename": "211.png",
+    "output": "211.json",
+    "bytes": 26583
+  },
+  {
+    "filename": "212.png",
+    "output": "212.json",
+    "bytes": 31867
+  },
+  {
+    "filename": "214.png",
+    "output": "214.json",
+    "bytes": 37611
+  },
+  {
+    "filename": "215.png",
+    "output": "215.json",
+    "bytes": 19647
+  },
+  {
+    "filename": "216.png",
+    "output": "216.json",
+    "bytes": 40202
+  },
+  {
+    "filename": "217.png",
+    "output": "217.json",
+    "bytes": 14773
+  },
+  {
+    "filename": "218.png",
+    "output": "218.json",
+    "bytes": 19597
+  },
+  {
+    "filename": "219.png",
+    "output": "219.json",
+    "bytes": 26615
+  },
+  {
+    "filename": "220.png",
+    "output": "220.json",
+    "bytes": 19597
+  },
+  {
+    "filename": "222.png",
+    "output": "222.json",
+    "bytes": 74763
+  },
+  {
+    "filename": "224.png",
+    "output": "224.json",
+    "bytes": 18983
+  },
+  {
+    "filename": "225.png",
+    "output": "225.json",
+    "bytes": 16063
+  },
+  {
+    "filename": "226.png",
+    "output": "226.json",
+    "bytes": 31681
+  },
+  {
+    "filename": "227.png",
+    "output": "227.json",
+    "bytes": 65932
+  },
+  {
+    "filename": "228.png",
+    "output": "228.json",
+    "bytes": 36130
+  },
+  {
+    "filename": "231.png",
+    "output": "231.json",
+    "bytes": 29925
+  },
+  {
+    "filename": "233.png",
+    "output": "233.json",
+    "bytes": 84953
+  },
+  {
+    "filename": "234.png",
+    "output": "234.json",
+    "bytes": 29825
+  },
+  {
+    "filename": "236.png",
+    "output": "236.json",
+    "bytes": 28326
+  },
+  {
+    "filename": "238.png",
+    "output": "238.json",
+    "bytes": 38103
+  },
+  {
+    "filename": "240.png",
+    "output": "240.json",
+    "bytes": 44873
+  },
+  {
+    "filename": "241.png",
+    "output": "241.json",
+    "bytes": 31022
+  },
+  {
+    "filename": "242.png",
+    "output": "242.json",
+    "bytes": 18339
+  },
+  {
+    "filename": "244.png",
+    "output": "244.json",
+    "bytes": 19759
+  },
+  {
+    "filename": "246.png",
+    "output": "246.json",
+    "bytes": 35810
+  },
+  {
+    "filename": "25.png",
+    "output": "25.json",
+    "bytes": 49882
+  },
+  {
+    "filename": "256.png",
+    "output": "256.json",
+    "bytes": 49738
+  },
+  {
+    "filename": "257.png",
+    "output": "257.json",
+    "bytes": 45000
+  },
+  {
+    "filename": "26.png",
+    "output": "26.json",
+    "bytes": 42440
+  },
+  {
+    "filename": "27.png",
+    "output": "27.json",
+    "bytes": 38286
+  },
+  {
+    "filename": "279.png",
+    "output": "279.json",
+    "bytes": 38036
+  },
+  {
+    "filename": "284.png",
+    "output": "284.json",
+    "bytes": 21449
+  },
+  {
+    "filename": "290.png",
+    "output": "290.json",
+    "bytes": 33760
+  },
+  {
+    "filename": "291.png",
+    "output": "291.json",
+    "bytes": 32807
+  },
+  {
+    "filename": "292.png",
+    "output": "292.json",
+    "bytes": 39396
+  },
+  {
+    "filename": "3.png",
+    "output": "3.json",
+    "bytes": 38911
+  },
+  {
+    "filename": "307.png",
+    "output": "307.json",
+    "bytes": 21047
+  },
+  {
+    "filename": "314.png",
+    "output": "314.json",
+    "bytes": 16277
+  },
+  {
+    "filename": "324.png",
+    "output": "324.json",
+    "bytes": 15928
+  },
+  {
+    "filename": "325.png",
+    "output": "325.json",
+    "bytes": 4140
+  },
+  {
+    "filename": "326.png",
+    "output": "326.json",
+    "bytes": 36585
+  },
+  {
+    "filename": "328.png",
+    "output": "328.json",
+    "bytes": 39901
+  },
+  {
+    "filename": "330.png",
+    "output": "330.json",
+    "bytes": 22365
+  },
+  {
+    "filename": "331.png",
+    "output": "331.json",
+    "bytes": 15058
+  },
+  {
+    "filename": "335.png",
+    "output": "335.json",
+    "bytes": 89419
+  },
+  {
+    "filename": "34.png",
+    "output": "34.json",
+    "bytes": 25662
+  },
+  {
+    "filename": "340.png",
+    "output": "340.json",
+    "bytes": 42226
+  },
+  {
+    "filename": "349.png",
+    "output": "349.json",
+    "bytes": 13270
+  },
+  {
+    "filename": "350.png",
+    "output": "350.json",
+    "bytes": 63223
+  },
+  {
+    "filename": "351.png",
+    "output": "351.json",
+    "bytes": 27305
+  },
+  {
+    "filename": "352.png",
+    "output": "352.json",
+    "bytes": 171861
+  },
+  {
+    "filename": "357.png",
+    "output": "357.json",
+    "bytes": 37503
+  },
+  {
+    "filename": "358.png",
+    "output": "358.json",
+    "bytes": 42948
+  },
+  {
+    "filename": "359.png",
+    "output": "359.json",
+    "bytes": 38576
+  },
+  {
+    "filename": "36.png",
+    "output": "36.json",
+    "bytes": 35805
+  },
+  {
+    "filename": "365.png",
+    "output": "365.json",
+    "bytes": 20927
+  },
+  {
+    "filename": "373.png",
+    "output": "373.json",
+    "bytes": 55891
+  },
+  {
+    "filename": "38.png",
+    "output": "38.json",
+    "bytes": 21542
+  },
+  {
+    "filename": "384.png",
+    "output": "384.json",
+    "bytes": 26256
+  },
+  {
+    "filename": "385.png",
+    "output": "385.json",
+    "bytes": 32972
+  },
+  {
+    "filename": "387.png",
+    "output": "387.json",
+    "bytes": 11623
+  },
+  {
+    "filename": "388.png",
+    "output": "388.json",
+    "bytes": 27038
+  },
+  {
+    "filename": "39.png",
+    "output": "39.json",
+    "bytes": 64488
+  },
+  {
+    "filename": "390.png",
+    "output": "390.json",
+    "bytes": 38122
+  },
+  {
+    "filename": "391.png",
+    "output": "391.json",
+    "bytes": 52747
+  },
+  {
+    "filename": "4.png",
+    "output": "4.json",
+    "bytes": 57282
+  },
+  {
+    "filename": "40.png",
+    "output": "40.json",
+    "bytes": 50488
+  },
+  {
+    "filename": "41.png",
+    "output": "41.json",
+    "bytes": 33916
+  },
+  {
+    "filename": "42.png",
+    "output": "42.json",
+    "bytes": 45210
+  },
+  {
+    "filename": "5.png",
+    "output": "5.json",
+    "bytes": 77328
+  },
+  {
+    "filename": "57.png",
+    "output": "57.json",
+    "bytes": 38538
+  },
+  {
+    "filename": "58.png",
+    "output": "58.json",
+    "bytes": 46090
+  },
+  {
+    "filename": "59.png",
+    "output": "59.json",
+    "bytes": 30687
+  },
+  {
+    "filename": "6.png",
+    "output": "6.json",
+    "bytes": 16241
+  },
+  {
+    "filename": "60.png",
+    "output": "60.json",
+    "bytes": 22483
+  },
+  {
+    "filename": "61.png",
+    "output": "61.json",
+    "bytes": 34506
+  },
+  {
+    "filename": "62.png",
+    "output": "62.json",
+    "bytes": 14523
+  },
+  {
+    "filename": "63.png",
+    "output": "63.json",
+    "bytes": 31076
+  },
+  {
+    "filename": "64.png",
+    "output": "64.json",
+    "bytes": 24755
+  },
+  {
+    "filename": "65.png",
+    "output": "65.json",
+    "bytes": 18379
+  },
+  {
+    "filename": "7.png",
+    "output": "7.json",
+    "bytes": 15698
+  },
+  {
+    "filename": "71.png",
+    "output": "71.json",
+    "bytes": 55970
+  },
+  {
+    "filename": "72.png",
+    "output": "72.json",
+    "bytes": 91761
+  },
+  {
+    "filename": "77.png",
+    "output": "77.json",
+    "bytes": 31612
+  },
+  {
+    "filename": "78.png",
+    "output": "78.json",
+    "bytes": 22235
+  },
+  {
+    "filename": "8.png",
+    "output": "8.json",
+    "bytes": 20919
+  },
+  {
+    "filename": "80.png",
+    "output": "80.json",
+    "bytes": 38308
+  },
+  {
+    "filename": "81.png",
+    "output": "81.json",
+    "bytes": 17514
+  },
+  {
+    "filename": "82.png",
+    "output": "82.json",
+    "bytes": 10615
+  },
+  {
+    "filename": "83.png",
+    "output": "83.json",
+    "bytes": 34060
+  },
+  {
+    "filename": "86.png",
+    "output": "86.json",
+    "bytes": 93988
+  },
+  {
+    "filename": "87.png",
+    "output": "87.json",
+    "bytes": 31302
+  },
+  {
+    "filename": "88.png",
+    "output": "88.json",
+    "bytes": 48511
+  },
+  {
+    "filename": "89.png",
+    "output": "89.json",
+    "bytes": 57754
+  },
+  {
+    "filename": "9.png",
+    "output": "9.json",
+    "bytes": 25589
+  },
+  {
+    "filename": "99.png",
+    "output": "99.json",
+    "bytes": 160269
+  }
+]
