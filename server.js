@@ -158,25 +158,33 @@ app.post("/webhook", async (req, res) => {
 
         }else if (message?.type === "interactive" && message?.interactive?.type === "nfm_reply") {
           const responseJson = JSON.parse(message.interactive.nfm_reply.response_json);
-           const text =
-            "Your purchase details have been received. " +
-            "An EcoCash payment prompt will be sent to your phone. " +
-            "Enter your EcoCash PIN on the official EcoCash prompt " +
-            "to authorize and complete the payment. " +
-            "Keep your EcoCash pin secure. Do not share your EcoCash PIN with anyone.";
-          
+          const user = message.from; // Ensure user phone is defined from the message sender
+          const messageId = message.id;
+
+          // Handle purchase confirmation flow
           if (responseJson.user_action === "CONFIRM_PURCHASE") {
             await markAsRead(businessPhoneNumberId, messageId);
-           // await sendMessageFunction(businessPhoneNumberId, user, messageId, text);
             
             // Trigger Paynow mobile payment
-            await initiatePayment(businessPhoneNumberId, user, messageId)
+            initiatePayment(businessPhoneNumberId, user, messageId)
               .then(() => console.log("[Webhook] Payment initiated successfully"))
               .catch((err) => console.error("[Webhook] Payment initiation failed:", err.message));
 
-              messageState = "main_menu"
-              setMessageState(user, messageState);
+            messageState = "main_menu";
+            setMessageState(user, messageState);
+          }
 
+          // ✅ Handle tests action flow
+          else if (responseJson.action === "tests") {
+            await markAsRead(businessPhoneNumberId, messageId);
+            await sendPracticeTestFlow(user);
+
+            const text = "You have selected the practice tests menu. Choose an option below to begin:";
+            // Add your function to send the tests menu or list here
+            // await sendTestsMenuFunction(businessPhoneNumberId, user, messageId, text);
+
+            messageState = "main_menu"; 
+            setMessageState(user, messageState);
           }
         }else if (user && optionReplyId) {
             // Check if the user is subscribed or on a trial
