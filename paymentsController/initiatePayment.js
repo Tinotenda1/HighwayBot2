@@ -72,7 +72,7 @@ export async function initiatePayment(businessPhoneNumberId, user, messageId) {
           console.log("Current Paynow payment status:", status.status);
 
           // ✅ FIXED: 'paid' handles successful payments and file/resource dispatch
-          if (status.status === 'cancelled') {
+          if (status.status === 'paid') {
             let text = "";
             
             if (userState.subscriptionPackage === "Highway Code" || userState.subscriptionPackage === "Road Signs" || userState.subscriptionPackage === "Questions Bank"){
@@ -166,7 +166,7 @@ export async function initiatePayment(businessPhoneNumberId, user, messageId) {
             }        
           
           // ✅ FIXED: 'cancelled' or failed payment states route properly here
-          } else if (status.status === 'paid' || status.status === 'failed') {
+          } else if (status.status === 'cancelled' || status.status === 'failed') {
             let messageData;
             if (userState.subscriptionPackage === "Highway Code" || userState.subscriptionPackage === "Road Signs" || userState.subscriptionPackage === "Questions Bank"){
               messageData = "Purchase of " + userState.subscriptionPackage + " study resource cancelled.\n\n Select 'Menu' for the Assistant's main menu and try subscribing again.";
