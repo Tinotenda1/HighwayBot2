@@ -24,7 +24,7 @@ export async function markAsRead(businessPhoneNumberId, messageId) {
     // Log the detailed Meta API error response if available
     console.error(
       "Error marking message as read:",
-      error.response ? JSON.stringify(error.response.data) : error.message 
+      error.response ? JSON.stringify(error.response.data) : error.message  
     );
   }
 }
