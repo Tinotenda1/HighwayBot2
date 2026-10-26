@@ -464,7 +464,7 @@ async function recordAttemptResult(session) {
     await saveResults({
       user: session.userPhone,
       category: session.category, // e.g., "exercise_1", "exercise_2", "exercise_3"
-      status: "completed",
+      status: "complete",
       no_correct_answers: correct,
       no_questions_taken: TOTAL_QUESTIONS,
       road_sign_qtn_mark: session.category === "exercise_2" ? correct : null,

@@ -412,7 +412,7 @@ async function finishAttempt(session, { timedOut = false } = {}) {
       await saveResults({
         user: session.userPhone,
         category: "timed_test",
-        status: timedOut ? "timed_out" : "completed",
+        status: timedOut ? "incomplete" : "complete",
         no_correct_answers: score.correct,
         no_questions_taken: session.questions.length,
         road_sign_qtn_mark: null,
