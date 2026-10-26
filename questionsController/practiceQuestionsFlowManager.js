@@ -20,9 +20,9 @@ const MAX_ATTEMPTS = 5;
 const ATTEMPT_WORDS = ["ONE", "TWO", "THREE", "FOUR", "FIVE"];
 
 const CATEGORIES = [
-  { id: "exercise_1", title: "Car Diagrams - Visual right-of-way and junction scenarios testing practical driving positioning.", dbCategory: "exercise_1" },
-  { id: "exercise_2", title: "Road Signs - Regulatory, warning, and informative Zimbabwean road sign identification.", dbCategory: "exercise_2" },
-  { id: "exercise_3", title: "Theory - General Highway Code rules, road safety regulations, and legal driver duties.", dbCategory: "exercise_3" },
+  { id: "exercise_1", title: "🚗 CAR DIAGRAMS - Visual right-of-way and junction scenarios testing practical driving positioning.", dbCategory: "exercise_1" },
+  { id: "exercise_2", title: "🚦 ROAD SIGNS - Regulatory, warning, and informative Zimbabwean road sign identification.", dbCategory: "exercise_2" },
+  { id: "exercise_3", title: "📝 THEORY - General Highway Code rules, road safety regulations, and legal driver duties.", dbCategory: "exercise_3" },
 ];
 
 function getAttemptWord(attemptNo) {
