@@ -188,7 +188,7 @@ export async function addNewUser(user) {
 
     // Add duration based on package
     if (packageType === "Trial") {
-      expirationDate = now < targetDate ? targetDate : new Date(now.getTime() + 12 * 60 * 60 * 1000); // 12 hours from now
+      expirationDate = now < targetDate ? targetDate : new Date(now.getTime() + 5 * 60 * 60 * 1000); // 12 hours from now
     } else if (packageType === "2 Weeks") {
       expirationDate.setDate(expirationDate.getDate() + 14);
     } else if (packageType === "1 Month") {
